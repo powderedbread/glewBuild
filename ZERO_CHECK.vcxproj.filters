@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\professionals\_openGL\glewBuild_2_1_0\CMakeFiles\2763fbd88a066f5dcac538a24d353713\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\professionals\_openGL\glewSource_2_1_0\build\cmake\cmake_uninstall.cmake.in">
+      <Filter>Buildsystem Input Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E4C9AEE4-4F0B-30FB-9544-0862AC053AAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{44A95B80-514B-35A6-B193-AB854F015A86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files">
+      <UniqueIdentifier>{795AD1C1-F426-35AA-B762-60E155955222}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+G:/professionals/_openGL/glewBuild_2_1_0/CMakeFiles/glew.dir
+G:/professionals/_openGL/glewBuild_2_1_0/CMakeFiles/glew_s.dir
+G:/professionals/_openGL/glewBuild_2_1_0/CMakeFiles/glewinfo.dir
+G:/professionals/_openGL/glewBuild_2_1_0/CMakeFiles/visualinfo.dir
+G:/professionals/_openGL/glewBuild_2_1_0/CMakeFiles/uninstall.dir
+G:/professionals/_openGL/glewBuild_2_1_0/CMakeFiles/INSTALL.dir
+G:/professionals/_openGL/glewBuild_2_1_0/CMakeFiles/ALL_BUILD.dir
+G:/professionals/_openGL/glewBuild_2_1_0/CMakeFiles/ZERO_CHECK.dir
